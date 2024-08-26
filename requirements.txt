@@ -1,0 +1,8 @@
+''' Framework '''
+fastapi
+
+''' Library read variable in file .env '''
+python-dotenv 
+
+''' Database '''
+pymongo
